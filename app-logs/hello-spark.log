@@ -1,0 +1,4 @@
+20/07/08 19:33:39 INFO HelloWorld$: Creating spark session 
+20/07/08 19:33:53 INFO HelloWorld$: Created spark session
+20/07/08 19:33:53 INFO HelloWorld$: Creating rdd
+20/07/08 19:33:56 INFO HelloWorld$: 1,2,3,4,5
